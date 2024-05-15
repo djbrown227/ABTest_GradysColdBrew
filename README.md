@@ -1,5 +1,5 @@
 Below I am simulating an A/B test I performed at Gradys Cold Brew. When I ran this analysis as the shipping manager 
-I was able to save my company between $15,000 to $20,000. Since I am unable to use real shipping data, we will go through the pocess with dummy data. 
+I was able to save my company between $15,000 to $20,000 annually. Since I am unable to use real shipping data, we will go through the pocess with dummy data. 
 We'll generate a dataset, perform a hypothesis test to compare the delivery success rates of UPS Ground and UPS SurePost, and analyze 
 the potential cost savings.
 
